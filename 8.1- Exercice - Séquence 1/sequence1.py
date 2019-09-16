@@ -4,3 +4,5 @@
 
 a = 11
 b = 42
+
+print("test")
