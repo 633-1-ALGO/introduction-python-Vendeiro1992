@@ -5,4 +5,10 @@
 a = 11
 b = 42
 
-print("test")
+n = a
+m = b
+a = m
+b = n
+
+print("valeur de a : ", a)
+print("valeur de b : ", b)
