@@ -6,8 +6,7 @@ a = 11
 b = 42
 
 n = a
-m = b
-a = m
+a = b
 b = n
 
 print("valeur de a : ", a)

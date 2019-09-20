@@ -4,11 +4,12 @@
 
 nb_articles = 13
 prix_ht = 42.75
-tva = 0.077
+
+taux_tva = 0.077
 
 prix_total = nb_articles * prix_ht
-ttc = prix_total * tva
-prix_ttc = prix_total + ttc
+tva = prix_total * taux_tva
+prix_ttc = prix_total + tva
 
 
-print("Le prix TTC est de ",prix_ttc," chf.")
+print("Le prix TTC est de",prix_ttc,"chf.")
