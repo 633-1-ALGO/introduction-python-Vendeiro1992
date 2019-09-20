@@ -4,6 +4,7 @@
 # Indications :  Vous pouvez changer les valeurs des variables pour vos tests.
 c = 42
 d = 31
+
 m = c * d
 print(c,"*",d,"=",m)
 
