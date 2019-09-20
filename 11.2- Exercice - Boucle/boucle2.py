@@ -6,7 +6,7 @@ B = [2, 6, 8, 5, 4, 12, 98, 34, 1]
 
 print(B)
 
-for j in range(6, len(B)):
+for j in range(1, len(B)):
     key = B[j]
     i = j - 1
     while i > 0 and B[i] > key:

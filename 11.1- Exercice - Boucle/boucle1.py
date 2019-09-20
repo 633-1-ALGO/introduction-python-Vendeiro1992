@@ -11,3 +11,10 @@ moyenne = somme / nb
 
 #print(somme, nb)
 print(moyenne)
+
+N = 12
+
+print("Boucle décrémentant de 1")
+while N != 0:
+    print("N = ", N)
+    N -= 1
