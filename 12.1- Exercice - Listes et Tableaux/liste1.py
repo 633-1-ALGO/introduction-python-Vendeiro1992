@@ -5,4 +5,5 @@
 #                                             . .  .  .  .  .  .  .  .  .  .
 # Indication :   L'alignement rectiligne n'est pas une contrainte, tant que la table est visible ligne par ligne c'est ok.
 #               Si vous êtes perfectionnistes faites vous plaisir.
+
 liste = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
