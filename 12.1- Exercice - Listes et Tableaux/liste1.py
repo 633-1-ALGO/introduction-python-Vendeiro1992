@@ -7,12 +7,19 @@
 #               Si vous êtes perfectionnistes faites vous plaisir.
 
 liste = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-
 i = 1
-while i <= 10:
+while i <= 1:
    nb = 1
    while nb <= 10:
       print(i*nb, end = "  ")
       nb = nb + 1
    print("")
    i = i + 1
+j = 1
+while j <= 10:
+   nb = 1
+   while nb <= 10:
+      print(j*nb, end = "  ")
+      nb = nb + 1
+   print("")
+   j = j + 1
