@@ -3,3 +3,11 @@
 # Résultat attendu : Moyenne des nombres réels du tableau A
 
 A = [1, 5, 15, 25, 10, 55, 50, 35]
+
+somme = sum(A)
+nb = len(A)
+
+moyenne = somme / nb
+
+#print(somme, nb)
+print(moyenne)

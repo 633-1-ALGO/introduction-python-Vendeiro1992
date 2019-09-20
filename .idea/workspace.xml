@@ -3,9 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="5ec7147b-d0f9-4cfb-b32a-0ca2d90cdbe3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.1- Exercice - Conditions/condition1.py" beforeDir="false" afterPath="$PROJECT_DIR$/10.1- Exercice - Conditions/condition1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.2- Exercice - Conditions/condition2.py" beforeDir="false" afterPath="$PROJECT_DIR$/10.2- Exercice - Conditions/condition2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/11.1- Exercice - Boucle/boucle1.py" beforeDir="false" afterPath="$PROJECT_DIR$/11.1- Exercice - Boucle/boucle1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11.2- Exercice - Boucle/boucle2.py" beforeDir="false" afterPath="$PROJECT_DIR$/11.2- Exercice - Boucle/boucle2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +33,51 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.condition2">
+  <component name="RunManager" selected="Python.boucle2">
+    <configuration name="boucle1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="IntroductionPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11.1- Exercice - Boucle" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11.1- Exercice - Boucle/boucle1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="boucle2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="IntroductionPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11.2- Exercice - Boucle" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11.2- Exercice - Boucle/boucle2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="condition1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="IntroductionPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -79,50 +122,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sequence1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="IntroductionPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8.1- Exercice - Séquence 1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8.1- Exercice - Séquence 1/sequence1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="sequence2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="IntroductionPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8.2- Exercice - Séquence 2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8.2- Exercice - Séquence 2/sequence2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="string2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="IntroductionPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -147,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.boucle2" />
+        <item itemvalue="Python.boucle1" />
         <item itemvalue="Python.condition2" />
         <item itemvalue="Python.condition1" />
         <item itemvalue="Python.string2" />
-        <item itemvalue="Python.sequence2" />
-        <item itemvalue="Python.sequence1" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +165,7 @@
       <option name="presentableId" value="Default" />
       <updated>1568978618739</updated>
       <workItem from="1568978622981" duration="821000" />
-      <workItem from="1568988020814" duration="1683000" />
+      <workItem from="1568988020814" duration="2934000" />
     </task>
     <task id="LOCAL-00001" summary="New commit">
       <created>1568978650933</created>
@@ -189,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568989305783</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="New commit">
+      <created>1568989715183</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1568989715183</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,9 +207,11 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/introduction_python_Vendeiro1992$sequence1.coverage" NAME="sequence1 Coverage Results" MODIFIED="1568988445582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.1- Exercice - Séquence 1" />
-    <SUITE FILE_PATH="coverage/introduction_python_Vendeiro1992$condition2.coverage" NAME="condition2 Coverage Results" MODIFIED="1568989655799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.2- Exercice - Conditions" />
+    <SUITE FILE_PATH="coverage/introduction_python_Vendeiro1992$condition2.coverage" NAME="condition2 Coverage Results" MODIFIED="1568989845579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.2- Exercice - Conditions" />
     <SUITE FILE_PATH="coverage/introduction_python_Vendeiro1992$string2.coverage" NAME="string2 Coverage Results" MODIFIED="1568989278946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9.2  Exercice - Traitement de string" />
+    <SUITE FILE_PATH="coverage/introduction_python_Vendeiro1992$boucle2.coverage" NAME="boucle2 Coverage Results" MODIFIED="1568990956567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11.2- Exercice - Boucle" />
     <SUITE FILE_PATH="coverage/introduction_python_Vendeiro1992$sequence2.coverage" NAME="sequence2 Coverage Results" MODIFIED="1568988604788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.2- Exercice - Séquence 2" />
     <SUITE FILE_PATH="coverage/introduction_python_Vendeiro1992$condition1.coverage" NAME="condition1 Coverage Results" MODIFIED="1568989597935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.1- Exercice - Conditions" />
+    <SUITE FILE_PATH="coverage/introduction_python_Vendeiro1992$boucle1.coverage" NAME="boucle1 Coverage Results" MODIFIED="1568990150637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11.1- Exercice - Boucle" />
   </component>
 </project>
