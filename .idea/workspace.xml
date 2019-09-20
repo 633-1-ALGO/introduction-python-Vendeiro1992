@@ -31,7 +31,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.boucle1">
+  <component name="RunManager" selected="Python.liste1">
     <configuration name="boucle1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="IntroductionPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -120,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="string2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="liste1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="IntroductionPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,12 +128,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9.2  Exercice - Traitement de string" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12.1- Exercice - Listes et Tableaux" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9.2  Exercice - Traitement de string/string2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12.1- Exercice - Listes et Tableaux/liste1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.liste1" />
         <item itemvalue="Python.boucle1" />
         <item itemvalue="Python.boucle2" />
         <item itemvalue="Python.condition2" />
         <item itemvalue="Python.condition1" />
-        <item itemvalue="Python.string2" />
       </list>
     </recent_temporary>
   </component>
@@ -163,7 +163,7 @@
       <option name="presentableId" value="Default" />
       <updated>1568978618739</updated>
       <workItem from="1568978622981" duration="821000" />
-      <workItem from="1568988020814" duration="4052000" />
+      <workItem from="1568988020814" duration="4373000" />
     </task>
     <task id="LOCAL-00001" summary="New commit">
       <created>1568978650933</created>
@@ -214,7 +214,21 @@
       <option name="project" value="LOCAL" />
       <updated>1568991987051</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="New commit">
+      <created>1568992087341</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1568992087341</updated>
+    </task>
+    <task id="LOCAL-00009" summary="New commit">
+      <created>1568992106166</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1568992106166</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -226,6 +240,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/introduction_python_Vendeiro1992$sequence1.coverage" NAME="sequence1 Coverage Results" MODIFIED="1568988445582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.1- Exercice - Séquence 1" />
+    <SUITE FILE_PATH="coverage/introduction_python_Vendeiro1992$liste1.coverage" NAME="liste1 Coverage Results" MODIFIED="1568992425505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12.1- Exercice - Listes et Tableaux" />
     <SUITE FILE_PATH="coverage/introduction_python_Vendeiro1992$condition2.coverage" NAME="condition2 Coverage Results" MODIFIED="1568989845579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.2- Exercice - Conditions" />
     <SUITE FILE_PATH="coverage/introduction_python_Vendeiro1992$string2.coverage" NAME="string2 Coverage Results" MODIFIED="1568989278946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9.2  Exercice - Traitement de string" />
     <SUITE FILE_PATH="coverage/introduction_python_Vendeiro1992$boucle2.coverage" NAME="boucle2 Coverage Results" MODIFIED="1568991715805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11.2- Exercice - Boucle" />
