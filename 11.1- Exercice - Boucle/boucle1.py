@@ -4,17 +4,12 @@
 
 A = [1, 5, 15, 25, 10, 55, 50, 35]
 
-somme = sum(A)
 nb = len(A)
+moyenne = 0
 
-moyenne = somme / nb
+for i in range(1, nb + 1):
+    moyenne += A[i - 1]
+moyenne /= nb
 
-#print(somme, nb)
 print(moyenne)
 
-N = 12
-
-print("Boucle décrémentant de 1")
-while N != 0:
-    print("N = ", N)
-    N -= 1
