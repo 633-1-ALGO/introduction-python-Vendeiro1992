@@ -8,8 +8,8 @@ nb = len(A)
 moyenne = 0
 
 for i in range(1, nb + 1):
-    moyenne += A[i - 1]
-moyenne /= nb
+    moyenne += A[i - 1]  #moyenne = moyenne + A[i - 1]
+moyenne /= nb  #moyenne = moyenne + nb
 
 print(moyenne)
 
