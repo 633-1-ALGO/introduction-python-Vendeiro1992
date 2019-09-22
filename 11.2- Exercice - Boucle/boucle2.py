@@ -9,7 +9,7 @@ for j in range(1, len(B)):
     cle = B[j]
     while i >= 0 and B[i] > cle:
         B[i+1] = B[i]
-        i = i - 1
+        i = i - 1  #i -= 1
     B[i + 1] = cle
 
 print(B)

@@ -3,20 +3,8 @@
 
 tab = [[4, 7, 3, 20, 42], [2, 4, 5, 7, 2], [23, 24, 15, 75, 23]]
 
-max_value = max(tab)
+valMax = max(max(x) for x in tab)
+indice = [(index, row.index(valMax)) for index, row in enumerate(tab) if valMax in row]
 
-print(max_value)
-
-
-a = [[1, 2, 3, 4], [5, 6], [7, 8, 9]]
-s = 0
-for row in a:
-    for elem in row:
-        s += elem
-print(s)
-
-n = 10
-m = 10
-var = [[1 for j in range(m)] for i in range(n)]
-print(var)
+print("La valeur maximum est :",valMax,"et elle se trouve à l'indice",indice)
 
