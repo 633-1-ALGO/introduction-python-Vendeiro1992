@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ec7147b-d0f9-4cfb-b32a-0ca2d90cdbe3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/13.1- Exercice - Fonctions/fonction.py" beforeDir="false" afterPath="$PROJECT_DIR$/13.1- Exercice - Fonctions/fonction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12.1- Exercice - Listes et Tableaux/liste1.py" beforeDir="false" afterPath="$PROJECT_DIR$/12.1- Exercice - Listes et Tableaux/liste1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +31,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.fonction">
+  <component name="RunManager" selected="Python.liste1">
     <configuration name="boucle1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="IntroductionPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -144,9 +144,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.liste1" />
         <item itemvalue="Python.fonction" />
         <item itemvalue="Python.liste2" />
-        <item itemvalue="Python.liste1" />
         <item itemvalue="Python.boucle2" />
         <item itemvalue="Python.boucle1" />
       </list>
@@ -164,7 +164,7 @@
       <updated>1568978618739</updated>
       <workItem from="1568978622981" duration="821000" />
       <workItem from="1568988020814" duration="10730000" />
-      <workItem from="1569163183920" duration="5632000" />
+      <workItem from="1569163183920" duration="5904000" />
     </task>
     <task id="LOCAL-00001" summary="New commit">
       <created>1568978650933</created>
@@ -264,7 +264,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569169303930</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="New commit">
+      <created>1569169699462</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1569169699462</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -276,8 +283,8 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/introduction_python_Vendeiro1992$sequence1.coverage" NAME="sequence1 Coverage Results" MODIFIED="1568988445582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.1- Exercice - Séquence 1" />
-    <SUITE FILE_PATH="coverage/introduction_python_Vendeiro1992$fonction.coverage" NAME="fonction Coverage Results" MODIFIED="1569169683528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13.1- Exercice - Fonctions" />
-    <SUITE FILE_PATH="coverage/introduction_python_Vendeiro1992$liste1.coverage" NAME="liste1 Coverage Results" MODIFIED="1569167494522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12.1- Exercice - Listes et Tableaux" />
+    <SUITE FILE_PATH="coverage/introduction_python_Vendeiro1992$fonction.coverage" NAME="fonction Coverage Results" MODIFIED="1569169830588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13.1- Exercice - Fonctions" />
+    <SUITE FILE_PATH="coverage/introduction_python_Vendeiro1992$liste1.coverage" NAME="liste1 Coverage Results" MODIFIED="1569169835619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12.1- Exercice - Listes et Tableaux" />
     <SUITE FILE_PATH="coverage/introduction_python_Vendeiro1992$condition2.coverage" NAME="condition2 Coverage Results" MODIFIED="1568989845579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.2- Exercice - Conditions" />
     <SUITE FILE_PATH="coverage/introduction_python_Vendeiro1992$string2.coverage" NAME="string2 Coverage Results" MODIFIED="1568989278946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9.2  Exercice - Traitement de string" />
     <SUITE FILE_PATH="coverage/introduction_python_Vendeiro1992$boucle2.coverage" NAME="boucle2 Coverage Results" MODIFIED="1569165620289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11.2- Exercice - Boucle" />
