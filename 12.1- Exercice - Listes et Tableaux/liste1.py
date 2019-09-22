@@ -9,24 +9,17 @@
 liste = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
 i = 1
+print("   ",end=" ")
 while i <= 1:
    nb = 1
    while nb <= 10:
-      print("{:>4d}".format(i*nb), end = "  ")
-      nb = nb + 1
+      print("{:>3d}".format(i*nb),end=" ")
+      nb += 1
    print("")
-   i = i + 1
+   i += 1
 
-   #k = 1
-   #while k < 10:
-       #print(k)
-       #k += 1
-
-j = 1
-while j <= 10:
-   nb = 1
-   while nb <= 10:
-      print("{:>4d}".format(j*nb), end = "  ")
-      nb = nb + 1
-   print("")
-   j = j + 1
+for i in range(1,len(liste)+1):
+    print("{:>3d}".format(i),end=" ")
+    for j in range (1,len(liste)+1):
+        print("{:>3d}".format(j*i), end=" ")
+    print("")
