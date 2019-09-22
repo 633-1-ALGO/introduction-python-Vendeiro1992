@@ -6,4 +6,12 @@ tab_lettres = [
     ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w',
      'x', 'y', 'z', ' '], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]]
 
-print(texte.count('a'))
+occu_texte = {}
+
+for i in texte:
+    if i in occu_texte:
+        occu_texte[i] += 1
+    else:
+        occu_texte[i] = 1
+
+print(str(occu_texte))
