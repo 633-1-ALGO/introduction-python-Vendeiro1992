@@ -6,12 +6,11 @@ tab_lettres = [
     ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w',
      'x', 'y', 'z', ' '], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]]
 
-occu_texte = {}
 
-for i in texte:
-    if i in occu_texte:
-        occu_texte[i] += 1
-    else:
-        occu_texte[i] = 1
+def afficheFrequence(chaine, tabLettre):
+    for j in tabLettre[0]:
+        tabLettre[1][tabLettre[0].index(j)] = chaine.count(j)
+    return tabLettre
 
-print(str(occu_texte))
+
+print(afficheFrequence(texte, tab_lettres))
